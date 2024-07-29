@@ -5,7 +5,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Roboto", sans-serif;
-  overflow: hidden;
 }
 
 html {
@@ -112,7 +111,7 @@ a.link button:hover {
   
   @media (max-width: 480px) {
     a.link button {
-      width: 320px;
+      width: 350px;
       margin: 0 auto;
       font-size: 1em;
     }
@@ -120,7 +119,7 @@ a.link button:hover {
 
   @media (max-width: 400px) {
     a.link button {
-      width: 280px;
+      width: 320px;
       margin: 0 auto;
       font-size: 1em;
     }
